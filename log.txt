@@ -1,0 +1,5 @@
+2022-05-20 16:44:38 .\main.lua:23 程序已占用 76.5546875 kb
+startCountFunc():
+[.\main.lua]:14--func            1
+[.\main.lua]:11--www             1
+[[C]]:-1--sethook                1
